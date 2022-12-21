@@ -2,7 +2,7 @@
 namespace Getnet\API;
     /**
      * Created by PhpStorm.
-     * User: brunopaz
+     * User: codificar
      * Date: 09/07/2018
      * Time: 01:26
      * Documentation https://api.getnet.com.br/v1/doc/api
